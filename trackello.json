@@ -1,8 +1,8 @@
 {
-    "version": "0.2.5",
+    "version": "0.2.7",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/klauern/trackello/releases/download/0.2.5/trackello_0.2.5_windows_amd64.tar.gz",
+            "url": "https://github.com/klauern/trackello/releases/download/0.2.7/trackello_0.2.7_windows_amd64.tar.gz",
             "bin": "trackello.exe"
         }
     },
