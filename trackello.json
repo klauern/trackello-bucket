@@ -1,12 +1,11 @@
 {
-    "version": "0.2.3",
+    "version": "0.2.4",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/klauern/trackello/releases/download/0.2.3/trackello_0.2.3_windows_amd64.tar.gz",
+            "url": "https://github.com/klauern/trackello/releases/download/0.2.4/trackello_0.2.4_windows_amd64.tar.gz",
             "bin": "trackello.exe"
         }
     },
     "homepage": "https://github.com/klauern/trackello",
-    "license": "Apache",
     "description": "Tracking your work in Trello from the command-line"
 }
